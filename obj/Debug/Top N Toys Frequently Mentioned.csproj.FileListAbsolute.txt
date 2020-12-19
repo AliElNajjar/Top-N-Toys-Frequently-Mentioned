@@ -1,0 +1,7 @@
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\bin\Debug\Top N Toys Frequently Mentioned.exe.config
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\bin\Debug\Top N Toys Frequently Mentioned.exe
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\bin\Debug\Top N Toys Frequently Mentioned.pdb
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\obj\Debug\Top N Toys Frequently Mentioned.csprojAssemblyReference.cache
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\obj\Debug\Top N Toys Frequently Mentioned.csproj.CoreCompileInputs.cache
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\obj\Debug\Top N Toys Frequently Mentioned.exe
+C:\Users\alina\Documents\Top N Toys Frequently Mentioned\Top N Toys Frequently Mentioned\obj\Debug\Top N Toys Frequently Mentioned.pdb
